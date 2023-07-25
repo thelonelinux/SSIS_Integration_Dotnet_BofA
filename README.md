@@ -1,6 +1,10 @@
 # SSIS_Integration_Dotnet_BofA
 SSIS Integration ETL services using Dotnet
 
+# SSIS Setup in Windows
+1. Download Visual Studio 2022
+2. Install Sql Server Integration Extension (https://www.mssqltips.com/sqlservertip/6481/install-sql-server-integration-services-in-visual-studio-2019/)
+
 #Important links/website to learn SSIS documentation
 1. https://www.sqlshack.com/ssis-script-task-vs-script-component/
 2. https://www.tutorialgateway.org/ssis/
