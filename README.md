@@ -4,6 +4,9 @@ SSIS Integration ETL services using Dotnet
 # SSIS Setup in Windows
 1. Download Visual Studio 2022
 2. Install Sql Server Integration Extension (https://www.mssqltips.com/sqlservertip/6481/install-sql-server-integration-services-in-visual-studio-2019/)
+3. Install SQL Server, setup SQL server, windows Authentication, Password etc techguy like password
+4. Install SQL Server Management Studio (SSMS) and connect your Database Server/Engine with this studio.
+5. Here in SSMS you can create DB, Tables, StoredProcedure etc.
 
 #Important links/website to learn SSIS documentation
 1. https://www.sqlshack.com/ssis-script-task-vs-script-component/
