@@ -39,3 +39,4 @@ SSIS Integration ETL services using Dotnet
 
 
 # Run Visual Studio or open Visual Studio as Administrator only to access the local DB :
+# To check commits click on commits option just right hand side above the repo content or below the green code
