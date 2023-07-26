@@ -35,3 +35,7 @@ SSIS Integration ETL services using Dotnet
 15. Execute SQL Task
 16. Unit Testing in SSIS
 17. Deployment of SSIS and etc
+	 
+
+
+# Run Visual Studio or open Visual Studio as Administrator only to access the local DB :
