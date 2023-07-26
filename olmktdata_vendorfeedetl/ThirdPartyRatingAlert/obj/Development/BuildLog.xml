@@ -2,12 +2,12 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>ThirdPartyRatingAlert</Name>
-    <LastWriteTime>2023-07-26T17:36:33.2529639Z</LastWriteTime>
+    <LastWriteTime>2023-07-26T18:03:00.9071068Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
+      <Name>ThirdPartyRatingAlert.dtsx</Name>
       <LastWriteTime>2023-07-26T17:36:30.0927934Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
