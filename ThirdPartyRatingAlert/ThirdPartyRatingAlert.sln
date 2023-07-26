@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ThirdPartyRatingAlert", "ThirdPartyRatingAlert\ThirdPartyRatingAlert.dtproj", "{6439D40C-7DB9-45F8-BAB9-13F949075A03}"
 EndProject
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CustomQuoteFactsetOutFile", "CustomQuoteFactsetOutFile\CustomQuoteFactsetOutFile.dtproj", "{2C97A224-4BF7-45A5-AE70-DAD52F80E4BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
@@ -12,6 +14,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{6439D40C-7DB9-45F8-BAB9-13F949075A03}.Development|Default.ActiveCfg = Development
 		{6439D40C-7DB9-45F8-BAB9-13F949075A03}.Development|Default.Build.0 = Development
+		{2C97A224-4BF7-45A5-AE70-DAD52F80E4BD}.Development|Default.ActiveCfg = Development
+		{2C97A224-4BF7-45A5-AE70-DAD52F80E4BD}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
